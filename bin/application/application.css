@@ -1,0 +1,25 @@
+.stage-estilo {
+-fx-alignment: center;
+-fx-background-color: #091127;
+}
+
+.contenedor-estilo {
+-fx-alignment: center;
+-fx-spacing: 30px;
+}
+
+.button-estilo {
+-fx-pref-width: 200px;
+-fx-pref-height: 50px;
+-fx-font-size: 1.5em;
+-fx-background-color: #18e640;
+-fx-text-fill: #ffffff;
+-fx-background-radius: 10px;
+-fx-border-radius: 10px;
+-fx-border-color: #ffffff;
+-fx-border-width: 2px;
+}
+
+.imagen-estilo {
+-fx-margin-bottom: 30px;
+}
